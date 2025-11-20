@@ -11,3 +11,30 @@
 1763465753802 , GET, ::1 , /api/users
 1763465995871 , GET, ::1 , /api/users
 1763466158881 , GET, ::1 , /api/users
+1763637123985:::1 GET /api/users
+
+1763637157641:::1 GET /api/users
+
+1763637193293:::1 POST /api/users
+
+1763637225134:::1 GET /api/users
+
+1763637254694:::1 POST /api/users
+
+1763637592491:::1 GET /users
+
+1763637601036:::1 GET /api/users
+
+1763637970225:::1 DELETE /api/users/691ef7c9d25ff449557c5d84
+
+1763637977722:::1 GET /api/users
+
+1763637981247:::1 GET /api/users
+
+1763637999621:::1 DELETE /api/users/691ef806d25ff449557c5d87
+
+1763638001632:::1 DELETE /api/users/691ef806d25ff449557c5d87
+
+1763638016520:::1 GET /api/users
+
+1763638033581:::1 GET /api/users
