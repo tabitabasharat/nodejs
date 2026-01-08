@@ -10,7 +10,7 @@ const urlSchema = new mongoose.Schema({
     type: String,
     require: true,
   },
-  totalClicks: [
+  visitHistory: [
     {
       timestamp: {
         type: Number,
@@ -19,6 +19,6 @@ const urlSchema = new mongoose.Schema({
   ],
 }, {timestamps: true });
 
-const url = mongoose.model('url', urlSchema);
+const URL = mongoose.model('url', urlSchema);
 
-module.exports = url;
+module.exports = URL;
